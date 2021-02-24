@@ -1,0 +1,20 @@
+{
+  "posts": [],
+  "user": {},
+  "boards": [
+    {
+      "name": "name"
+    },
+    {
+      "name": "name"
+    },
+    {
+      "tasks": []
+    },
+    {
+      "name": "name",
+      "tasks": []
+    }
+  ],
+  "tasks": []
+}
